@@ -33,7 +33,7 @@ I believe in one principle:
 
 ## 🧩 Featured Projects
 
-Here are some of the AI and Data Science projects highlighted on my site:
+Below are some of the AI and Data Science projects accomplished highlighted on my site:
 
 | Project | Description | Tech |
 |----------|--------------|------|
