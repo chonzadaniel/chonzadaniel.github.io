@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – ![image](https://www.google.com/imgres?q=EDC%20logo%20image&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fletter-edc-logo-design-vector-260nw-2118978794.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fedc-logo%3Fimage_type%3Dillustration&docid=58SC5WHgcwB2wM&tbnid=ADB0mPbc7R5uaM&vet=12ahUKEwj9z6ftr-WQAxVczwIHHcy6DDUQM3oECC0QAA..i&w=260&h=280&hcb=2&ved=2ahUKEwj9z6ftr-WQAxVczwIHHcy6DDUQM3oECC0QAA)Emmanuel Daniel Chonza
+# 🌐 Personal Portfolio – Emmanuel Daniel Chonza
 
 Welcome to the source code of my professional portfolio website, hosted at  
 👉 **[https://chonzadaniel.github.io](https://chonzadaniel.github.io)**
@@ -60,6 +60,16 @@ This site is hosted using **GitHub Pages** — directly from the `main` branch o
 
 The site was tested locally on `python3 -m http.server 8000` before pushing changes:
 
+# 📫 Contact
 
+ * 🌐 Portfolio: https://chonzadaniel.github.io
+ * 💼 LinkedIn: [Emmanuel Daniel Chonza](https://www.linkedin.com/in/emmanuel-daniel-chonza-b2a0b620/)
+ * 💻 GitHub: @chonzadaniel
+ * ✉️ Email: chonzadaniel@yahoo.com
 
+# ⭐ Acknowledgment
+
+This site was hand-crafted with pure HTML5 + CSS3, built to reflect my projects and passion for AI that creates real-world impact.
+
+© 2025 Emmanuel Daniel Chonza. All rights reserved.
 
