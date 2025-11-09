@@ -49,10 +49,9 @@ Here are some of the AI and Data Science projects highlighted on my site:
 
 ## 🛠️ Repository Structure
 chonzadaniel.github.io/
-│
-├── portfolio.html # Main portfolio webpage
-├── portfolio.css # Custom stylesheet
-└── README.md # This file
+ * portfoliopage.html # Main portfolio webpage
+ * portfoliopage.css # Custom stylesheet
+ * README.md # This file
 
 ## 🚀 Hosting on GitHub Pages
 
