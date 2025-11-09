@@ -12,11 +12,11 @@ This site showcases my work as a **Data Scientist**, **Generative AI Practitione
 I'm **Emmanuel Daniel Chonza**, passionate about building **end-to-end AI systems** that bridge research and real-world impact.
 
 My expertise covers:
-- Fine-tuning and evaluating **Large Language Models (LLMs)**  
-- Designing **Retrieval-Augmented Generation (RAG)** pipelines  
-- Deploying **Computer Vision** and **Predictive ML** apps  
-- Building dynamic, data-driven **Monitoring & Evaluation dashboards**  
-- Applying **MLOps/LLMOps** principles for scalable experimentation  
+- Fine-tuning and evaluating **Large Language Models (LLMs)**.
+- Designing **Retrieval-Augmented Generation (RAG) and Agentic Systems** pipelines.
+- Deploying **Computer Vision** and **Predictive ML** apps.
+- Building dynamic, data-driven **Monitoring & Evaluation dashboards**.
+- Applying **MLOps/LLMOps** principles for scalable experimentation.
 
 I believe in one principle:  
 > ***“Build. Evaluate. Integrate. Deploy. Continuously Improve.”***
