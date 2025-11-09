@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio – Emmanuel Daniel Chonza
+# 🌐 Personal Portfolio – ![image](https://www.google.com/imgres?q=EDC%20logo%20image&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fletter-edc-logo-design-vector-260nw-2118978794.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fedc-logo%3Fimage_type%3Dillustration&docid=58SC5WHgcwB2wM&tbnid=ADB0mPbc7R5uaM&vet=12ahUKEwj9z6ftr-WQAxVczwIHHcy6DDUQM3oECC0QAA..i&w=260&h=280&hcb=2&ved=2ahUKEwj9z6ftr-WQAxVczwIHHcy6DDUQM3oECC0QAA)Emmanuel Daniel Chonza
 
 Welcome to the source code of my professional portfolio website, hosted at  
 👉 **[https://chonzadaniel.github.io](https://chonzadaniel.github.io)**
@@ -58,11 +58,8 @@ chonzadaniel.github.io/
 
 This site is hosted using **GitHub Pages** — directly from the `main` branch of this repository.
 
-To preview locally before pushing changes:
-```
-# Open locally with Python
-python3 -m http.server 8000
+The site was tested locally on `python3 -m http.server 8000` before pushing changes:
 
-```
+
 
 
