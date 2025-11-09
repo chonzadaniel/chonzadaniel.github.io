@@ -461,15 +461,4 @@
                    0 0 60px rgba(56,189,248,0.5);
     }
   }
-  .logo-img {
-    height: 36px;             /* adjust size as needed */
-    width: auto;
-    vertical-align: middle;
-    margin-right: 0.5rem;
-  }
-  
-  .logo {
-    display: flex;
-    align-items: center;
-  }
   
