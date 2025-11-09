@@ -48,7 +48,7 @@ Here are some of the AI and Data Science projects highlighted on my site:
 ---
 
 ## 🛠️ Repository Structure
-## chonzadaniel.github.io:
+### chonzadaniel.github.io:
  * portfoliopage.html.
  * portfoliopage.css.
  * README.md.
@@ -57,7 +57,7 @@ Here are some of the AI and Data Science projects highlighted on my site:
 
 This site is hosted using **GitHub Pages** — directly from the `main` branch of this repository.
 
-The site was tested locally on `python3 -m http.server 8000` before pushing changes:
+The site was tested locally on `python3 -m http.server 8000` before pushing changes.
 
 # 📫 Contact
 
