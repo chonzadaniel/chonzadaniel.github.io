@@ -24,7 +24,6 @@ I believe in one principle:
 ---
 
 ## 💻 Tech Stack
->
 * **Languages:** Python, R, SQL, Tableau, Power BI, Markdown.
 * **Frameworks & Tools:** PyTorch, scikit-learn, Streamlit, FastAPI, LangChain, LlamaIndex, ChromaDB, MLflow, wandb.
 * **MLOps/LLMOps:** Docker, Hugging Face, AWS, Render, GitHub Actions.
