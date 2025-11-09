@@ -19,7 +19,7 @@ My expertise covers:
 - Applying **MLOps/LLMOps** principles for scalable experimentation  
 
 I believe in one principle:  
-> *“Build. Evaluate. Integrate. Deploy. Continuously Improve.”*
+> ***“Build. Evaluate. Integrate. Deploy. Continuously Improve.”***
 
 ---
 
