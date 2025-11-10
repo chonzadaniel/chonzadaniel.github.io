@@ -3,7 +3,7 @@
 Welcome to the source code of my professional portfolio website, hosted at  
 👉 **[https://chonzadaniel.github.io](https://chonzadaniel.github.io)**
 
-This site showcases my work as a **Data Scientist**, **Generative AI Practitioner**, and **LLM/RAG Engineer**, combining my background in AI, Data Science, and Monitoring & Evaluation (M&E) system design.
+This site showcases my work as a **Data Scientist**, **ML/DL/NLP**, **GenAI Practitioner**, and **LLMs/RAG/Agentic Systems Engineer**, combining my background in AI, Data Science, and Monitoring & Evaluation (M&E) system design.
 
 ---
 
@@ -16,18 +16,18 @@ My expertise covers:
 - Designing **Retrieval-Augmented Generation (RAG) and Agentic Systems** pipelines.
 - Deploying **Computer Vision** and **Predictive ML** apps.
 - Building dynamic, data-driven **Monitoring & Evaluation dashboards**.
-- Applying **MLOps/LLMOps** principles for scalable experimentation.
+- Applying **MLOps/LLMOps** principles for reproducible and scalable experimentations.
 
-I believe in one principle:  
+I believe in one key principle:  
 > ***“Build. Evaluate. Integrate. Deploy. Continuously Improve.”***.
 
 ---
 
 ## 💻 Tech Stack
-* **Languages:** Python, R, SQL, Tableau, Power BI, Markdown.
-* **Frameworks & Tools:** PyTorch, scikit-learn, Streamlit, FastAPI, LangChain, LlamaIndex, ChromaDB, MLflow, wandb.
-* **MLOps/LLMOps:** Docker, Hugging Face, AWS, Render, Git/GitHub Actions.
-* **Other Areas:** Data Visualization, NLP, Computer Vision, RAG/Agentic systems, M&E Systems.  
+* **Languages:** Python, R, SQL, Tableau, Power BI, and Markdown.
+* **Frameworks & Tools:** PyTorch, scikit-learn, Streamlit, FastAPI, LangChain, LlamaIndex, ChromaDB, MLflow, and wandb.
+* **MLOps/LLMOps:** Docker, Hugging Face, AWS, Render, and Git/GitHub Actions.
+* **Other Areas:** Data Visualization, NLP, Computer Vision, RAG/Agentic systems, and M&E Systems.  
 
 ---
 
@@ -55,7 +55,6 @@ Below are some of the AI and Data Science projects accomplished highlighted on m
 ## 🚀 Hosting on GitHub Pages
 
 This site is hosted using **GitHub Pages** — directly from the `main` branch of this repository.
-
 The site was tested locally on `python3 -m http.server 8000` before pushing changes.
 
 # 📫 Contact
