@@ -16,6 +16,7 @@ My expertise covers:
 - Designing **Retrieval-Augmented Generation (RAG) and Agentic Systems** pipelines.
 - Deploying **Computer Vision** and **Predictive ML** apps.
 - Building dynamic, data-driven **Monitoring & Evaluation dashboards**.
+- Building business recommendation systems powered by **NLP & Deep Learning**.
 - Applying **MLOps/LLMOps** principles for reproducible and scalable experimentations.
 
 I believe in one key principle:  
@@ -25,8 +26,8 @@ I believe in one key principle:
 
 ## 💻 Tech Stack
 * **Languages:** Python, R, SQL, Tableau, Power BI, and Markdown.
-* **Frameworks & Tools:** PyTorch, scikit-learn, Streamlit, FastAPI, LangChain, LlamaIndex, ChromaDB, MLflow, and wandb.
-* **MLOps/LLMOps:** Docker, Hugging Face, AWS, Render, and Git/GitHub Actions.
+* **Frameworks & Tools:** PyTorch, scikit-learn, Git & Github, Streamlit, FastAPI, LangChain, LlamaIndex, ChromaDB, MLflow, and wandb.
+* **MLOps/LLMOps:** Docker, Kaggle, Hugging Face, AWS, Render, and Git/GitHub Actions.
 * **Other Areas:** Data Visualization, NLP, Computer Vision, RAG/Agentic systems, and M&E Systems.  
 
 ---
@@ -39,7 +40,7 @@ Below are some of the AI and Data Science projects accomplished highlighted on m
 |----------|--------------|------|
 | 🧠 **Multimodal RAG App** | GenAI app retrieving and summarizing scientific PDFs using ChromaDB + GPT-4o | RAG, Streamlit |
 | 🐶 **Dog Breed Classifier** | Image classification (ResNet50) with Streamlit UI | Computer Vision |
-| 💼 **Resume & Job Advisor** | CrewAI-powered agentic system for career guidance | NLP, CrewAI |
+| 💼 **Resume & Job Advisor Agentic System** | CrewAI-powered agentic system for career guidance | NLP, CrewAI |
 | 💳 **Credit Card Fraud Detection** | ML pipeline for imbalanced datasets | XGBoost, SMOTE |
 | 🧪 **PEFT Experiments** | LoRA, QLoRA, IA3, DPO fine-tuning on sentiment data | Transformers |
 | 📊 **M&E Dashboards** | Real-time monitoring dashboards for climate resilience | Plotly, Streamlit |
