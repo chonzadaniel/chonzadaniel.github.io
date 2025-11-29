@@ -62,7 +62,7 @@ The site was tested locally on `python3 -m http.server 8000` before pushing chan
 
  * 🌐 Portfolio: https://chonzadaniel.github.io
  * 💼 LinkedIn: [Emmanuel Daniel Chonza](https://www.linkedin.com/in/emmanuel-daniel-chonza-b2a0b620/)
- * 💻 GitHub: @chonzadaniel
+ * 💻 GitHub: [Emmanuel Daniel Chonza](https://github.com/chonzadaniel?tab=repositories)
  * ✉️ Email: chonzadaniel@yahoo.com
 
 # ⭐ Acknowledgment
