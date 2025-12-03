@@ -1,7 +1,7 @@
 # 🌐 Personal Portfolio – Emmanuel Daniel Chonza
 
 Welcome to the source code of my professional portfolio website, hosted at  
-👉 **[https://chonzadaniel.github.io](https://chonzadaniel.github.io)**
+🔗 **[https://chonzadaniel.github.io](https://chonzadaniel.github.io)**
 
 This site showcases my work as a **Data Scientist**, **ML/DL/NLP**, **GenAI Practitioner**, and **LLMs/RAG/Agentic Systems Engineer**, combining my background in AI, Data Science, and Monitoring & Evaluation (M&E) system design.
 
@@ -41,7 +41,7 @@ Below are some of the AI and Data Science projects accomplished highlighted on m
 | 🧠 **Multimodal RAG App** | GenAI app retrieving and summarizing scientific PDFs using ChromaDB + GPT-4o | RAG, Streamlit |
 | 🐶 **Dog Breed Classifier** | Image classification (ResNet50) with Streamlit UI | Computer Vision |
 | 💼 **Resume & Job Advisor Agentic System** | CrewAI-powered agentic system for career guidance | NLP, CrewAI |
-| 💳 **Credit Card Fraud Detection** | ML pipeline for imbalanced datasets | XGBoost, SMOTE |
+| 💳 **Credit Card Fraud Detection** | ML pipeline for imbalanced datasets | Logistic Regression, SMOTE |
 | 🧪 **PEFT Experiments** | LoRA, QLoRA, IA3, DPO fine-tuning on sentiment data | Transformers |
 | 📊 **M&E Dashboards** | Real-time monitoring dashboards for climate resilience | Plotly, Streamlit |
 
